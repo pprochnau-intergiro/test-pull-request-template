@@ -1,4 +1,7 @@
 # Select template
 
-- [First template](?expand=1&template=first_template.md)
-- [Second template](?expand=1&template=second_template.md)
+**Click `Preview` tab and select proper pull request template:**
+
+- [Bugfix](?expand=1&template=bugfix.md)
+- [Feature](?expand=1&template=feature.md)
+- [Task](?expand=1&template=task.md)
